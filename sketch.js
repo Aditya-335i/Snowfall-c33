@@ -3,7 +3,7 @@ const World = Matter.World;
 const Bodies = Matter.Bodies;
 var bg;
 
-var maxSnow=100;
+var maxSnow=100
 var snow=[];
 var rand;
 
